@@ -1,3 +1,4 @@
+Ensure that the device is turned on before experimenting....
 Here the frontend is the demo website we have made only for the testing purpose and for the frontend, we have created a mobile app named Nischay.apk using React-Native.
 
 The programming language used for the Backend Development is Node.js and is deployed on Render.

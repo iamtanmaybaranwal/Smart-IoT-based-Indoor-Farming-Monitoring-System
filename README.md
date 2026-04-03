@@ -16,7 +16,7 @@ Users can log in, claim IoT devices, and view live sensor data remotely, making 
 
 ## 🎥 Video Demo
 
-* A **complete MP4 video demo** of the application and system workflow is uploaded **directly on this GitHub repository**
+* A **complete MP4 video demo** of the application and system workflow is uploaded **on the google drive** whose link is given.
 * The video demonstrates:
 
   * App login flow
